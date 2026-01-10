@@ -1,6 +1,6 @@
 # 🧠 Quiz Web App (JavaScript)
 
-An interactive **Quiz Web Application** built using **HTML, CSS, and Vanilla JavaScript**.  
+An interactive **Quiz Web Application** built using **HTML, CSS, and  JavaScript**.  
 Users can answer multiple-choice questions, receive **instant feedback**, and view their **final score** at the end.
 
 This project focuses on **DOM manipulation**, **event handling**, and **dynamic UI updates** using JavaScript.
@@ -21,7 +21,7 @@ This project focuses on **DOM manipulation**, **event handling**, and **dynamic 
 - Score tracking
 - Restart quiz option
 - Clean and responsive UI
-- Pure JavaScript (no libraries or frameworks)
+- Pure JavaScript 
 
 ---
 
@@ -74,14 +74,14 @@ This project focuses on **DOM manipulation**, **event handling**, and **dynamic 
 ## 📂 Folder Structure
 
 
-'''
+```
 │
 ├── index.html # Main HTML file
 ├── style.css # Styling for the app
 ├── app.js # Quiz logic and functionality
 ├── quiz.png # App screenshot
 └── README.md # Project documentation
-'''
+```
 
 ---
 
@@ -112,7 +112,6 @@ Through this project, I learned:
 - State management using variables
 - Basic UI/UX design principles
 
----
 
 
 
