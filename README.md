@@ -32,10 +32,18 @@ This project focuses on **DOM manipulation**, **event handling**, and **dynamic 
 - **JavaScript (ES6)** – Logic, DOM manipulation, and interactivity  
 
 ---
-
 ## 📂 Folder Structure
 
-'''
+
+```
+│
+├── index.html # Main HTML file
+├── style.css # Styling for the app
+├── app.js # Quiz logic and functionality
+├── quiz.png # App screenshot
+└── README.md # Project documentation
+```
+---
 # 🧠 Quiz Web App (JavaScript)
 
 An interactive **Quiz Web Application** built using **HTML, CSS, and Vanilla JavaScript**.  
@@ -68,20 +76,6 @@ This project focuses on **DOM manipulation**, **event handling**, and **dynamic 
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
 - **JavaScript (ES6)** – Logic, DOM manipulation, and interactivity  
-
----
-
-## 📂 Folder Structure
-
-
-```
-│
-├── index.html # Main HTML file
-├── style.css # Styling for the app
-├── app.js # Quiz logic and functionality
-├── quiz.png # App screenshot
-└── README.md # Project documentation
-```
 
 ---
 
