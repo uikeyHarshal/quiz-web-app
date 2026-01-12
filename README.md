@@ -37,11 +37,11 @@ This project focuses on **DOM manipulation**, **event handling**, and **dynamic 
 
 ```
 │
-├── index.html # Main HTML file
-├── style.css # Styling for the app
-├── app.js # Quiz logic and functionality
-├── quiz.png # App screenshot
-└── README.md # Project documentation
+├── index.html 
+├── style.css 
+├── app.js
+├── quiz.png 
+└── README.md
 ```
 ---
 # 🧠 Quiz Web App (JavaScript)
