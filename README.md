@@ -1,10 +1,16 @@
 # 🧠 Quiz Web App (JavaScript)
 
-An interactive **Quiz Web Application** built using **HTML, CSS, and  JavaScript**.  
-Users can answer multiple-choice questions, receive **instant feedback**, and view their **final score** at the end.
+*COMPANY*:  Codtech IT Solutions Private Limited
 
-This project focuses on **DOM manipulation**, **event handling**, and **dynamic UI updates** using JavaScript.
+*Name*:HARSHAL UIKEY
 
+*INTERN ID*: CTIS2763
+
+*DOMAIN*: Front End Development
+
+*Duration*: 4 Weeks
+
+*Mentor*: Neela Santosh
 ---
 
 ## 📸 Preview
